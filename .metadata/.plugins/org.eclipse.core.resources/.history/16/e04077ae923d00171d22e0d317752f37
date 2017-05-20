@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package com.array;
+
+/**
+ * @author Sachin Jha (sachinjha.com)
+ *
+ */
+public class RandomizeArray {
+
+	/**
+	 * 
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+
+	}
+	
+	private static Object[] randomizeArray(Object[] input){
+		
+		return null;
+	}
+
+}

@@ -1,0 +1,34 @@
+/**
+ * 
+ */
+package com.array;
+
+import java.util.Random;
+
+/**
+ * @author Sachin Jha (sachinjha.com)
+ * This program will take any Object array and randomizes 
+ * the array elements order using Pseudo Random Number generator
+ * (https://en.wikipedia.org/wiki/Pseudorandom_number_generator)
+ */
+public class RandomizeArray {
+
+	/**
+	 * 
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Object input = new Object[]{"1","2","3","4","5"};
+		randomizeArray(input);
+	}
+	
+	private static Object[] randomizeArray(Object[] input){
+		Random ran = new Random();
+		for(int i=0;i<input.length;i++){
+			System.out.println(i);
+		}
+		
+		return null;
+	}
+
+}
