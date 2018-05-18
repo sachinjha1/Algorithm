@@ -9,7 +9,7 @@ Java implementation of basic data structures and algorithms
 
 Leetcode problems classified by company 
 
-LinkedIn(39)
+LinkedIn(39)<br>
 
 1 Two Sum 23.0% Easy <br>
 21 Merge Two Sorted Lists 35.4% Easy <br>
@@ -51,7 +51,7 @@ LinkedIn(39)
 311 Sparse Matrix Multiplication 47.2% Medium <br>
 339 Nested List Weight Sum 54.7% Easy <br>
 
-Google(90)
+Google(90)<br>
 
 Median of Two Sorted Arrays 18.6% Hard <br>
 10 Regular Expression Matching 22.0% Hard <br>
@@ -144,7 +144,7 @@ Median of Two Sorted Arrays 18.6% Hard <br>
 340 Longest Substring with At Most K Distinct Characters 37.2% Hard <br>
 341 Flatten Nested List Iterator 19.8% Medium <br>
 
-Uber(42)
+Uber(42)<br>
 
 Two Sum 23.0% Easy <br>
 8 String to Integer (atoi) 13.5% Easy <br>
@@ -214,7 +214,7 @@ Airbnb(20)
 269 Alien Dictionary 22.9% Hard <br>
 336 Palindrome Pairs 19.5% Hard <br>
 
-Facebook(79)
+Facebook(79)<br>
 
 Two Sum 23.0% Easy <br>
 10 Regular Expression Matching 22.0% Hard <br>
@@ -296,7 +296,7 @@ Two Sum 23.0% Easy <br>
 325 Maximum Size Subarray Sum Equals k 39.9% Easy <br>
 334 Increasing Triplet Subsequence 33.2% Medium <br>
 
-Twitter(21)
+Twitter(21)<br>
 
 Regular Expression Matching 22.0% Hard <br>
 12 Integer to Roman 38.8% Medium <br>
@@ -320,7 +320,7 @@ Regular Expression Matching 22.0% Hard <br>
 269 Alien Dictionary 22.9% Hard <br>
 296 Best Meeting Point 46.7% Hard <br>
 
-Zenefit(21)
+Zenefit(21)<br>
 4 Median of Two Sorted Arrays 18.6% Hard <br>
 20 Valid Parentheses 29.3% Easy <br>
 22 Generate Parentheses 36.9% Medium <br>
@@ -342,10 +342,11 @@ Zenefit(21)
 255 Verify Preorder Sequence in Binary Search Tree 37.1% Medium <br>
 261 Graph Valid Tree 32.5% Medium <br>
 317 Shortest Distance from All Buildings 31.1% Hard <br>
-Amazon(41)
- 1 Two Sum 23.0% Easy <br>
-2 Add Two Numbers 23.0% Medium <br>
-3 Longest Substring Without Repeating Characters 21.9% Medium <br>
+
+Amazon(41) <br>
+-- 1 Two Sum 23.0% Easy <br>
+-- 2 Add Two Numbers 23.0% Medium <br>
+-- 3 Longest Substring Without Repeating Characters 21.9% Medium <br>
 5 Longest Palindromic Substring 23.0% Medium <br>
 8 String to Integer (atoi) 13.5% Easy <br>
 15 3Sum 18.8% Medium <br>
@@ -384,7 +385,8 @@ Amazon(41)
 240 Search a 2D Matrix II 34.4% Medium <br>
 242 Valid Anagram 41.7% Easy <br>
 297 Serialize and Deserialize Binary Tree 27.8% Hard <br>
-Microsoft(77)
+
+Microsoft(77)<br>
 1 Two Sum 23.0% Easy <br>
 2 Add Two Numbers 23.0% Medium <br>
 4 Median of Two Sorted Arrays 18.6% Hard <br>
@@ -463,7 +465,7 @@ Microsoft(77)
 300 Longest Increasing Subsequence 34.2% Medium <br>
 333 Largest BST Subtree 26.5% Medium <br>
 
-Snapchat(15)
+Snapchat(15)<br>
 36 Valid Sudoku 30.5% Easy <br>
 39 Combination Sum 30.9% Medium <br>
 44 Wildcard Matching 17.4% Hard <br>
@@ -480,7 +482,7 @@ Snapchat(15)
 289 Game of Life 34.2% Medium <br>
 314 Binary Tree Vertical Order Traversal 30.3% Medium <br>
 
-Apple(28)
+Apple(28)<br>
  1 Two Sum 23.0% Easy <br>
 4 Median of Two Sorted Arrays 18.6% Hard <br>
 7 Reverse Integer 23.6% Easy <br>
@@ -523,7 +525,7 @@ Yahoo(11)
 284 Peeking Iterator 33.5% Medium <br>
 297 Serialize and Deserialize Binary Tree 27.8% Hard <br>
 
-Dropbox(7)
+Dropbox(7)<br>
 1 Two Sum 23.0% Easy <br>
 4 Median of Two Sorted Arrays 18.6% Hard <br>
 17 Letter Combinations of a Phone Number 28.6% Medium <br>
@@ -532,7 +534,7 @@ Dropbox(7)
 290 Word Pattern 29.0% Easy <br>
 291 Word Pattern II 34.8% Hard <br>
 
-Bloomberg(57)
+Bloomberg(57)<br>
 1 Two Sum 23.0% Easy <br>
 2 Add Two Numbers 23.0% Medium <br>
 3 Longest Substring Without Repeating Characters 21.9% Medium <br>
@@ -591,7 +593,7 @@ Bloomberg(57)
 287 Find the Duplicate Number 38.5% Hard <br>
 297 Serialize and Deserialize Binary Tree 27.8% Hard <br>
 
-Yelp(12)
+Yelp(12)<br>
  1 Two Sum 23.0% Easy <br>
 3 Longest Substring Without Repeating Characters 21.9% Medium <br>
 14 Longest Common Prefix 28.1% Easy <br>
@@ -605,7 +607,7 @@ Yelp(12)
 218 The Skyline Problem 22.0% Hard <br>
 242 Valid Anagram 41.7% Easy <br>
 
-Palantir(7)
+Palantir(7)<br>
 136 Single Number 49.6% Medium <br>
 146 LRU Cache 15.8% Hard <br>
 217 Contains Duplicate 41.1% Easy <br>
@@ -614,7 +616,7 @@ Palantir(7)
 303 Range Sum Query – Immutable 24.4% Easy <br>
 325 Maximum Size Subarray Sum Equals k 39.9% Easy <br>
 
-Adobe(12)
+Adobe(12)<br>
 1 Two Sum 23.0% Easy <br>
 2 Add Two Numbers 23.0% Medium <br>
 3 Longest Substring Without Repeating Characters 21.9% Medium <br>
