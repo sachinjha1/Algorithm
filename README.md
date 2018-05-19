@@ -351,8 +351,8 @@ Amazon(41) <br>
 -- 8 String to Integer (atoi) 13.5% Easy <br>
 --15 3Sum 18.8% Medium <br>
 --17 Letter Combinations of a Phone Number 28.6% Medium <br>
-20 Valid Parentheses 29.3% Easy <br>
-21 Merge Two Sorted Lists 35.4% Easy <br>
+--20 Valid Parentheses 29.3% Easy <br>
+--21 Merge Two Sorted Lists 35.4% Easy <br>
 23 Merge k Sorted Lists 23.3% Hard <br>
 42 Trapping Rain Water 32.2% Hard <br>
 48 Rotate Image 34.6% Medium <br>
