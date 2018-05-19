@@ -347,8 +347,8 @@ Amazon(41) <br>
 -- 1 Two Sum 23.0% Easy <br>
 -- 2 Add Two Numbers 23.0% Medium <br>
 -- 3 Longest Substring Without Repeating Characters 21.9% Medium <br>
-5 Longest Palindromic Substring 23.0% Medium <br>
-8 String to Integer (atoi) 13.5% Easy <br>
+-- 5 Longest Palindromic Substring 23.0% Medium <br>
+-- 8 String to Integer (atoi) 13.5% Easy <br>
 15 3Sum 18.8% Medium <br>
 17 Letter Combinations of a Phone Number 28.6% Medium <br>
 20 Valid Parentheses 29.3% Easy <br>
