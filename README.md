@@ -1,9 +1,40 @@
 # Algorithm
-Java implementation of basic data structures and algorithms
 
-1. Print all positive integer solutions to the equation a3 + b3 c3 + d3 where a, b, c, and d are integers between 1 and 1000.
+Leetcode.com
 
-2. Given a smaller strings and a bigger string b, design an algorithm to find all permutations of the shorter string within the longer one.Print the location of each permutation.
+Good playlist
+https://www.youtube.com/watch?v=shs0KM3wKv8&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK
+
+
+Must see
+https://www.youtube.com/watch?v=XKu_SEDAykw&index=34&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK
+
+
+David Malan Scalability
+https://www.youtube.com/results?search_query=david+malan+scalability
+
+System Design
+https://github.com/checkcheckzz/system-design-interview
+See Products and Systems:
+   - BigTable
+   - Dynamo
+   - Google architecture
+
+http://highscalability.com/google-architecture
+
+-If you do this then no need of above - paid... 
+https://www.educative.io/collection/5668639101419520/5649050225344512 
+
+---
+Order
+1. Google Interview video
+2. Leetcode
+3. educative.io
+4. Paper - BigTable/Dynamo
+
+Similar to Grokking
+https://github.com/shashank88/system_design#designques
+
 
 
 
