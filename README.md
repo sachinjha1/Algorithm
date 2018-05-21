@@ -386,7 +386,7 @@ Amazon(41) <br>
 --21 Merge Two Sorted Lists 35.4% Easy <br>
 --23 Merge k Sorted Lists 23.3% Hard <br>
 --42 Trapping Rain Water 32.2% Hard <br>
-48 Rotate Image 34.6% Medium <br>
+--48 Rotate Image 34.6% Medium <br>
 49 Group Anagrams 27.4% Medium <br>
 78 Subsets 31.3% Medium <br>
 89 Gray Code 36.3% Medium <br>
