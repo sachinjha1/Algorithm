@@ -391,8 +391,8 @@ Amazon(41) <br>
 --78 Subsets 31.3% Medium <br>
 --89 Gray Code 36.3% Medium <br>
 --98 Validate Binary Search Tree 20.9% Medium <br>
-102 Binary Tree Level Order Traversal 32.7% Easy <br>
-121 Best Time to Buy and Sell Stock 36.0% Easy <br>
+--102 Binary Tree Level Order Traversal 32.7% Easy <br>
+--121 Best Time to Buy and Sell Stock 36.0% Easy <br>
 126 Word Ladder II 13.6% Hard <br>
 127 Word Ladder 19.6% Medium <br>
 138 Copy List with Random Pointer 26.1% Hard <br>
