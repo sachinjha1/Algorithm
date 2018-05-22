@@ -401,12 +401,12 @@ Amazon(41) <br>
 146 LRU Cache 15.8% Hard <br>
 155 Min Stack 22.0% Easy <br>
 160 Intersection of Two Linked Lists 30.2% Easy <br>
-167 Two Sum II – Input array is sorted 47.8% Medium <br>
+--167 Two Sum II – Input array is sorted 47.8% Medium <br>
 186 Reverse Words in a String II 29.1% Medium <br>
 199 Binary Tree Right Side View 34.3% Medium <br>
 200 Number of Islands 27.6% Medium <br>
-204 Count Primes 24.2% Easy <br>
-206 Reverse Linked List 39.4% Easy <br>
+--204 Count Primes 24.2% Easy <br>
+--206 Reverse Linked List 39.4% Easy <br>
 215 Kth Largest Element in an Array 33.1% Medium <br>
 234 Palindrome Linked List 28.0% Easy <br>
 235 Lowest Common Ancestor of a Binary Search Tree 37.7% Easy <br>
