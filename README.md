@@ -397,7 +397,7 @@ Amazon(41) <br>
 --127 Word Ladder 19.6% Medium <br>
 --138 Copy List with Random Pointer 26.1% Hard <br>
 --139 Word Break 25.2% Medium <br>
-141 Linked List Cycle 37.0% Medium <br>
+--141 Linked List Cycle 37.0% Medium <br>
 146 LRU Cache 15.8% Hard <br>
 155 Min Stack 22.0% Easy <br>
 160 Intersection of Two Linked Lists 30.2% Easy <br>
@@ -408,7 +408,7 @@ Amazon(41) <br>
 --204 Count Primes 24.2% Easy <br>
 --206 Reverse Linked List 39.4% Easy <br>
 215 Kth Largest Element in an Array 33.1% Medium <br>
-234 Palindrome Linked List 28.0% Easy <br>
+--234 Palindrome Linked List 28.0% Easy <br>
 235 Lowest Common Ancestor of a Binary Search Tree 37.7% Easy <br>
 236 Lowest Common Ancestor of a Binary Tree 28.8% Medium <br>
 238 Product of Array Except Self 42.6% Medium <br>
