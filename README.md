@@ -394,9 +394,9 @@ Amazon(41) <br>
 --102 Binary Tree Level Order Traversal 32.7% Easy <br>
 --121 Best Time to Buy and Sell Stock 36.0% Easy <br>
 126 Word Ladder II 13.6% Hard <br>
-127 Word Ladder 19.6% Medium <br>
-138 Copy List with Random Pointer 26.1% Hard <br>
-139 Word Break 25.2% Medium <br>
+--127 Word Ladder 19.6% Medium <br>
+--138 Copy List with Random Pointer 26.1% Hard <br>
+--139 Word Break 25.2% Medium <br>
 141 Linked List Cycle 37.0% Medium <br>
 146 LRU Cache 15.8% Hard <br>
 155 Min Stack 22.0% Easy <br>
