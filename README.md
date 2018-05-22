@@ -399,8 +399,8 @@ Amazon(41) <br>
 --139 Word Break 25.2% Medium <br>
 --141 Linked List Cycle 37.0% Medium <br>
 146 LRU Cache 15.8% Hard <br>
-155 Min Stack 22.0% Easy <br>
-160 Intersection of Two Linked Lists 30.2% Easy <br>
+--155 Min Stack 22.0% Easy <br>
+--160 Intersection of Two Linked Lists 30.2% Easy <br>
 --167 Two Sum II – Input array is sorted 47.8% Medium <br>
 186 Reverse Words in a String II 29.1% Medium <br>
 199 Binary Tree Right Side View 34.3% Medium <br>
