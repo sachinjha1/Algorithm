@@ -402,19 +402,19 @@ Amazon(41) <br>
 --155 Min Stack 22.0% Easy <br>
 --160 Intersection of Two Linked Lists 30.2% Easy <br>
 --167 Two Sum II – Input array is sorted 47.8% Medium <br>
-186 Reverse Words in a String II 29.1% Medium <br>
+--186 Reverse Words in a String II 29.1% Medium <br>
 199 Binary Tree Right Side View 34.3% Medium <br>
 200 Number of Islands 27.6% Medium <br>
 --204 Count Primes 24.2% Easy <br>
 --206 Reverse Linked List 39.4% Easy <br>
-215 Kth Largest Element in an Array 33.1% Medium <br>
+--215 Kth Largest Element in an Array 33.1% Medium <br>
 --234 Palindrome Linked List 28.0% Easy <br>
 235 Lowest Common Ancestor of a Binary Search Tree 37.7% Easy <br>
 236 Lowest Common Ancestor of a Binary Tree 28.8% Medium <br>
-238 Product of Array Except Self 42.6% Medium <br>
+--238 Product of Array Except Self 42.6% Medium <br>
 239 Sliding Window Maximum 27.3% Hard <br>
 240 Search a 2D Matrix II 34.4% Medium <br>
-242 Valid Anagram 41.7% Easy <br>
+--242 Valid Anagram 41.7% Easy <br>
 297 Serialize and Deserialize Binary Tree 27.8% Hard <br>
 
 Microsoft(77)<br>
