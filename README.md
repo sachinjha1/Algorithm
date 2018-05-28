@@ -19,6 +19,19 @@ See Products and Systems:
    - BigTable
    - Dynamo
    - Google architecture
+   
+System design has 7 steps. In short I call it RAS DB DB (Raas! Dub! Dub!)
+```
+R - Requirements/Scoping - Tweeter time line, Twitter search... what else is important???
+A - APIs  - tweet(msg, userid, time) likeTweet(tweedId, userId, time)
+S - Scalability clarification - How many users, tweets per second. how many read vs write of tweet
+
+D - Data modal - User : UserID, name, age, Follower - UserID, AltUserID
+B - Block Diagram - High level dig with server LB database
+
+D - Detailed Design - Deep into partitionining, load balancer, load handling, caching etc
+B - Bottleneck - Scalability issue at specific component level
+```
 
 http://highscalability.com/google-architecture
 
