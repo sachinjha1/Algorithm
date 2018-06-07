@@ -13,8 +13,12 @@ https://www.youtube.com/watch?v=XKu_SEDAykw&index=34&list=PLOuZYwbmgZWXvkghUyMLd
 David Malan Scalability
 https://www.youtube.com/results?search_query=david+malan+scalability
 
+
 System Design
 https://github.com/checkcheckzz/system-design-interview
+
+Slack System Design
+https://www.youtube.com/watch?v=WE9c9AZe-DY
 See Products and Systems:
    - BigTable
    - Dynamo
