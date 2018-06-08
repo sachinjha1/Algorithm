@@ -13,7 +13,11 @@ https://www.youtube.com/watch?v=XKu_SEDAykw&index=34&list=PLOuZYwbmgZWXvkghUyMLd
 David Malan Scalability
 https://www.youtube.com/results?search_query=david+malan+scalability
 
-
+Class Hierarchy Design
+  Parking Lot
+https://www.youtube.com/watch?v=DSGsa0pu8-k
+  
+  
 System Design
 https://github.com/checkcheckzz/system-design-interview
 
