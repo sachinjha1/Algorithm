@@ -63,3 +63,4 @@ https://github.com/shashank88/system_design#designques
 What is TCP/IP/HTTP ?
 https://searchnetworking.techtarget.com/answer/How-are-TCP-IP-and-HTTP-related
 
+Very inspiring story with good links https://leetcode.com/discuss/interview-experience/390381/amazon-sde2-boston-aug-2019-offer
