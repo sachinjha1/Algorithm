@@ -44,10 +44,15 @@ B - Bottleneck - Scalability issue at specific component level
 ```
 
 http://highscalability.com/google-architecture
+
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+
 https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions
+
 https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns
+
 https://akshay-iyangar.github.io/system-design/
+
 
 -If you do this then no need of above - paid... 
 https://www.educative.io/collection/5668639101419520/5649050225344512 
