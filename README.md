@@ -57,6 +57,8 @@ https://akshay-iyangar.github.io/system-design/
 -If you do this then no need of above - paid... 
 https://www.educative.io/collection/5668639101419520/5649050225344512 
 
+https://igotanoffer.com/blogs/tech
+
 ---
 Order
 1. Google Interview video
