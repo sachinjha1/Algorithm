@@ -51,6 +51,8 @@ https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Ques
 
 https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns
 
+https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+
 https://akshay-iyangar.github.io/system-design/
 
 
